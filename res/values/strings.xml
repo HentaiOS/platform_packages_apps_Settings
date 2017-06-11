@@ -11352,4 +11352,6 @@
     <!-- Summary for Enterprise Privacy settings, explaining what the user can expect to find under it [CHAR LIMIT=NONE]-->
     <string name="work_policy_privacy_settings_summary">Settings managed by your IT admin</string>
 
+    <!-- hentai version -->
+    <string name="hentai_version">hentaiOS Version</string>
 </resources>
